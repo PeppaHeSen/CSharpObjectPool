@@ -1,0 +1,6 @@
+C:\GitHub\CSharpObjectPool\CSharpObjectPool\bin\Debug\CSharpObjectPool.exe.config
+C:\GitHub\CSharpObjectPool\CSharpObjectPool\bin\Debug\CSharpObjectPool.exe
+C:\GitHub\CSharpObjectPool\CSharpObjectPool\bin\Debug\CSharpObjectPool.pdb
+C:\GitHub\CSharpObjectPool\CSharpObjectPool\obj\Debug\CSharpObjectPool.csprojAssemblyReference.cache
+C:\GitHub\CSharpObjectPool\CSharpObjectPool\obj\Debug\CSharpObjectPool.exe
+C:\GitHub\CSharpObjectPool\CSharpObjectPool\obj\Debug\CSharpObjectPool.pdb
